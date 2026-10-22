@@ -20,7 +20,8 @@ Each one has their own crafting recipe and obtainment method. Try to find them a
 Requires:
 - CraftedCore
 - woodwalkers
-- Remorphed(if using older versions for one reason or another)
+
+You can find these on Modrinth.
 
 Functions:
 - Right click Digimon item to become an Allay(will be a Digimon when I get to modeling)
